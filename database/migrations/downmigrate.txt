@@ -1,0 +1,7 @@
+up
+
+$table->text('column')->unable()->after('content');
+
+down
+
+$table->dropColumn('');
